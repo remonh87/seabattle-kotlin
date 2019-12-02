@@ -9,6 +9,8 @@
 
 #intellij
 /.idea
+/build
+/.kotlintest
 
 
 #intellij
